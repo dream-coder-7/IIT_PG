@@ -7,30 +7,27 @@ Our website assists you in finding relevant PGs throughout many cities. Here's a
 
 
 ## Tech Stack used
-
-HTML 5
-
-CSS 3
-
-JAVASCRIPT
-
-BOOTSTRAP 5
-
-MySQL(DBMS)
-
-PHP
+<list>
+<ul>
+  <li>HTML 5</li>
+  <li>CSS 3</li>
+  <li>JAVASCRIPT</li>
+  <li>BOOTSTRAP 5</li>
+  <li>MySQL(DBMS)</li>
+  <li>PHP</li>
+</ul>
 
 ## Overview
 
-Sign up using your email address and create a profile. 
+-- Sign up using your email address and create a profile. 
 
-Select your decided city.
+-- Select your decided city.
 
-Browse the list of available PGs.
+-- Browse the list of available PGs.
 
-Filter your search results by location, rent, amenities, and other criteria. 
+-- Filter your search results by location, rent, amenities, and other criteria. 
 
-Click on a listing to view additional information such as images, room kinds, rent, and availability.
+-- Click on a listing to view additional information such as images, room kinds, rent, and availability.
 ## Features
 
 -- Search by city 
